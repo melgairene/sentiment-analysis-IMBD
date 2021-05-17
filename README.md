@@ -9,5 +9,7 @@ learning technniques may be enough in some cases, with SVM being the best classi
 short text [3].
 
 [1] A. L. Maas, R. E. Daly, P. T. Pham, D. Huang, A. Y. Ng, and C. Potts, “Learning word vectors for sentiment analysis,” in Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, (Portland, Oregon, USA), pp. 142–150, Association for Computational Linguistics, June 2011.
+
 [2] The 23rd Annual Conference of the Language Processing Society of Japan (NLP2017), 2009.
+
 [3] W. Yin, K. Kann, M. Yu, and H. Sch¨utze, “Comparative study of CNN and RNN for natural language processing,” CoRR, vol. abs/1702.01923, 2017.
